@@ -21,6 +21,6 @@ int main()
   }
   strcat(str3, str1);
   strcat(str3, str2);
-  printf("string1: %s\n, string2: %s\n, string3: %s\n", str1, str2, str3);
+  printf("string1: %s\nstring2: %s\nstring3: %s\n", str1, str2, str3);
 return 0;
 }
