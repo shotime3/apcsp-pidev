@@ -43,7 +43,7 @@ int main()
 
   if (!(b == 0))
  {
-  printf("true!!! b =/= 0\n");
+  printf("true b =/= 0\n");
  }
 
 }
