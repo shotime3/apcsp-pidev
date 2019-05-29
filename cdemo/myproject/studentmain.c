@@ -5,7 +5,7 @@
 int main() {
   //int a;
   //a =
-   printStudent(struct Student* student); 
+  // printStudent(struct Student* student); 
  int numStudent;
   char strInput[256];
   printf("How many students do you want to enter: \n");

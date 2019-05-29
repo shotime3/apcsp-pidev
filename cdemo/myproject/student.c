@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "student.h"
 
 int printStudent(struct Student* student) {
